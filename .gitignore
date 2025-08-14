@@ -3,3 +3,7 @@
 .DS_Store
 view.ipynb
 phase0_package.npz
+/recon
+/models_trained
+/splits
+/png
