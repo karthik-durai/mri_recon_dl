@@ -2,6 +2,8 @@
 
 Unrolled data-consistency with a learned 2.5D prior (Pseudo3DUNet). Baselines use CG-SENSE.
 
+Link to paper - [ZS-SSL](https://arxiv.org/abs/2102.07737)
+
 ---
 
 ## Repo layout
