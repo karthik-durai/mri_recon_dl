@@ -8,3 +8,6 @@ phase0_package.npz
 /models_trained
 /splits
 /png
+/infer*
+/cg_baseline*
+scan20_splits*
